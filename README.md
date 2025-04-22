@@ -3,7 +3,7 @@ Play BlackJack directly in the Windows console (edit the code and re-compile for
 
 ## About the Project
 
-A Console Game of BlackJack in C created by SiteRaw Projects https://www.siteraw.com
+A Console Game of ASCII BlackJack in C created by SiteRaw Projects https://www.siteraw.com
 
 ### Rules
 
@@ -18,7 +18,9 @@ A Console Game of BlackJack in C created by SiteRaw Projects https://www.siteraw
 ### Languages
 
 - C
+- you can find the web equivalent [here](https://github.com/SiteRaw/ascii-blackjack/)
 
 ### Future updates?
 
 - add Split & Double
+- edit the display of "10" cards
